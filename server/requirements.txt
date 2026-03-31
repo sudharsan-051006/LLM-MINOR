@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+sqlalchemy
+psycopg2-binary
+langchain
+langchain-groq
+langchain-community
+chromadb
+PyGithub
+pypdf
